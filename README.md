@@ -12,10 +12,8 @@ It does not have a length of the file embedded, thus we need to find JPEG traile
 This information helps us so we can know when a JPEG file ends. Looking further, we notice that we can include/write binary content after the end of the file without changing the actual image.
 
 ### Hide any file in a JPEG file.
-Simply (have a look at `main.py`):
+Simply (have a look at [`main.py`](https://github.com/ochotzas/hideFileInJPEG/blob/main/main.py)):
 1. Import the file that contains the functions: `import hideExportJpeg as hej`.
 2. Start using the functions:
     - `hide(jpeg_file, to_hide_file)`: it is used to hide the wanted file in the jpeg file.
     - `export(jpeg_file, exported_file)`: it is used to export the hidden file.
-
-###### Actual photo (the `photo.jpg`) from [Pexels](https://www.pexels.com).
