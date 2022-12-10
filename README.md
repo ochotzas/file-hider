@@ -6,7 +6,7 @@ File-Hider is a library for hiding files in jpeg files. It provides two function
 
 file-hider can be installed using pip:
 
-````
+````shell
 pip install file-hider
 ````
 
