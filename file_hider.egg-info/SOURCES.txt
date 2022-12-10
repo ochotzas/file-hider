@@ -1,0 +1,8 @@
+README.md
+file_hider.py
+setup.py
+file_hider.egg-info/PKG-INFO
+file_hider.egg-info/SOURCES.txt
+file_hider.egg-info/dependency_links.txt
+file_hider.egg-info/jpeg_file.jpg
+file_hider.egg-info/top_level.txt
