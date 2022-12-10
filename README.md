@@ -14,7 +14,7 @@ pip install file-hider
 
 Here is an example of how to use file-hider in your Python code:
 
-````
+````python
 import file_hider
 
 # Import the wanted file to the jpeg file
